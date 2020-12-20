@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  align-items: center;
+}
+.nav__logo {
+  color: white;
+  font-size: 24px;
+}
+.nav__logo i {
+  color: red;
+}
+.nav__tool {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0;
+}
+.nav__tool li {
+  padding: 12px 12px;
+}
+
+main {
+}
+
+title {
+}

@@ -64,11 +64,13 @@ header .icons .fa-search {
   text-align: center;
   background-color: var(--black-color);
 }
+
 .player video {
   width: 100%;
-  height: 100%;
   max-width: 1000px;
+  height: auto;
 }
+
 
 body > .info {
   padding: var(--padding);

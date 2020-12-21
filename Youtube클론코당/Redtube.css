@@ -60,17 +60,15 @@ header .icons .fa-search {
 /* video player */
 .player {
   position: sticky;
-  top: 0;
   text-align: center;
+  top: 0;
   background-color: var(--black-color);
 }
-
 .player video {
   width: 100%;
   max-width: 1000px;
   height: auto;
 }
-
 
 body > .info {
   padding: var(--padding);
